@@ -1,4 +1,4 @@
-import { NoteForm } from './NoteForm'
+import { NoteForm } from "./NoteForm"
 
 export function NewNote() {
     return (
